@@ -1,0 +1,4 @@
+https://www.rstudio.com/sagemaker/
+https://www.rstudio.com/blog/develop-collaborate-and-scale-across-r-and-python/
+https://youtu.be/J-JJAjo_5Ew
+https://www.rstudio.com/blog/develop-collaborate-and-scale-across-r-and-python/
